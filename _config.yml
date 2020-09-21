@@ -1,13 +1,15 @@
 title: Jingyun Jia # your name (or website title) here
 logo: "/images/avatar.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a third-year Ph.D. student in the Computer Engineering And Sciences at Florida Institute of Technology, under the supervision of [Dr. Philip Chan](https://cs.fit.edu/~pkc/). 
+  I am a third-year Ph.D. student in the Computer Engineering And Sciences at Florida Institute of Technology, under the supervision of <a href="https://cs.fit.edu/~pkc/"> Dr. Philip Chan </a> . 
   My research interests are in the areas of representation learning, anomaly detection and open set recognition.
-  Prior to this, I obtained my Master of Science Degree in Informatics (Machine Learning) in the School of Informatics at the University of Edinburgh, UK in 2014, under the supervision of [Professor Jane Hillston](http://homepages.inf.ed.ac.uk/jeh/).
+  Prior to this, I obtained my Master of Science Degree in Informatics (Machine Learning) in the School of Informatics at the University of Edinburgh, UK in 2014, under the supervision of <a href="http://homepages.inf.ed.ac.uk/jeh/">Professor Jane Hillston</a>.
   I gained my Bachelor of Engineering in the School of Software Engineering in the Xiamen University, China in 2013. 
   I have also spent time in the data team at Factual Inc. (merged with Foursquare), and in the business intelligence at Trip.com Group.
   <br><br>
-  <a href="https://www.linkedin.com/in/jingyun-jia/"> LinkedIn </a> |  <a href="https://github.com/clojia"> Github </a> | <a href="/pdf/Jingyun_Jia_cv.pdf"> Github </a>
+  <a href="https://www.linkedin.com/in/jingyun-jia/"> LinkedIn </a> 
+  <a href="https://github.com/clojia"> Github </a>
+  <a href="/pdf/Jingyun_Jia_cv.pdf"> Resume </a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
